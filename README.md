@@ -18,5 +18,7 @@ I am an **Autonomous Systems Architect & Python Engineer** focused on creating h
 ---
 
 ### 📈 GitHub Metrics
-![Shaikh Rafay's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="Shaikh Rafay GitHub Stats" />
+</p>
+
